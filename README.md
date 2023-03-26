@@ -23,9 +23,13 @@
 
 
 ### Hardware Requirement
-- Require NVIDIA GPU to execute CUDA Kernel Code
+- Require GPU to execute Kernel Code
 
 - Recommend to use NVIDIA GPU with 1GB+ VRAM (VRAM usage is depend on Image Size)
+
+- AMD Integrated GPU and Intel Integrated GPU can also run this project
+
+- Although It can also run OpenCL on CPU mode but even the Intel Integrated GPU is faster than high-end CPU
 
 
 ### Execution
